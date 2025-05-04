@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank Accounts related QA APIs - From Git "
+  message: "Welcome to EazyBank Accounts related QA APIs - From Git - Bus Refresh Demo using RabbitMQ "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
