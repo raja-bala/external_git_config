@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank Accounts related PROD APIs"
+  message: "Welcome to EazyBank Accounts related PROD APIs - From Git"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"

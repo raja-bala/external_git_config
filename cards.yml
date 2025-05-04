@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to EazyBank Cards related local APIs"
+  message: "Welcome to EazyBank Cards related local APIs - From Git"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
