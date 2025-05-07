@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank Accounts related PROD APIs - From Git - Bus Refresh Demo using RabbitMQ"
+  message: "Welcome to EazyBank Accounts related PROD APIs - From Git - Bus Refresh Demo using RabbitMQ with Docker Compose"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
