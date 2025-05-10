@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to EazyBank Loans related local APIs - From Git - Bus Refresh Demo using RabbitMQ with Docker Compose"
+  message: "Welcome to EazyBank Loans related local APIs - From Git - Bus Refresh Demo using RabbitMQ with Docker Compose- only Loans Default updated"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
